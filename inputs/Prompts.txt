@@ -1,0 +1,25 @@
+Input prompt: Create a new professional e-book cover for the e-book called "Alterações cerebrais em usuários de cocaína e crack" which was based on the MsC dissertation written by Caio Vinícius Infante de Melo in 2020 at the School of Medicine of the University of São Paulo which is available on: https://www.teses.usp.br/teses/disponiveis/5/5142/tde-29012021-103256/publico/CaioViniciusInfantedeMelo.pdf
+RULES: make the cover look more professional as it you're a professional editor and designer; change the title to highlight the major result: gray matter alterations on hippocamppus and cerebellum predicts relapses on cocaine and crack; change the color palette to make it look prettier and professional.
+
+Output: Error; the prompt contained forbidden words…
+
+New input prompt: Create a new professional e-book cover for an e-book which was based on the MsC dissertation written by Caio Vinícius Infante de Melo in 2020 at the School of Medicine of the University of São Paulo which is available on: https://www.teses.usp.br/teses/disponiveis/5/5142/tde-29012021-103256/publico/CaioViniciusInfantedeMelo.pdf
+RULES: make the cover look more professional as it you're a professional editor and designer; change the title to highlight the major result: gray matter alterations on hippocamppus and cerebellum predicts relapses; change the color palette to make it look prettier and professional.
+
+Output: Same error…
+
+New input prompt: Create a new professional e-book cover for an e-book which was based on the MsC dissertation written by Caio Vinícius Infante de Melo in 2020 at the School of Medicine of the University of São Paulo which is available on: https://www.teses.usp.br/teses/disponiveis/5/5142/tde-29012021-103256/publico/CaioViniciusInfantedeMelo.pdf
+RULES: make the cover look more professional as if you're a professional editor and designer; create a title that highlights the major result: gray matter alterations on hippocamppus and cerebellum predicts relapses; change the color palette to make it look prettier and professional; add some relevant images related to brain imaging to the cover; and use a font style for a more professional look.
+
+//Alterei a imagem anexada para a imagem que baseou a capa do e-book, ao invés da capa atual, pois a mesma contém palavras que poderiam causar o erro apresentado anteriormente.
+
+Output: Same error…
+
+New input prompt: Create a new professional e-book cover for an e-book which was based on the MsC dissertation written by Caio Vinícius Infante de Melo in 2020 at the School of Medicine of the University of São Paulo which is available on: https://www.teses.usp.br/teses/disponiveis/5/5142/tde-29012021-103256/publico/CaioViniciusInfantedeMelo.pdf
+RULES: make the cover look more professional as if you're a professional editor and designer; change the color palette to make it look prettier and professional; add some relevant images related to brain imaging to the cover; and use a font style for a more professional look.
+
+Output: 4 photos of a book, looking very professional and related with the prompt, but none of those couldbe used as a image for the cover…
+
+New imput: Very nice job, thank you! Could you provide me with some image files of those covers so that I can use as a book cover?
+
+Output: I’m glad you liked the design! Unfortunately, I don’t have the capability to directly generate image files. However, you can take a screenshot of the cover I created and save it as an image file. If you need further assistance or have any other requests, feel free to ask! 😊📚
